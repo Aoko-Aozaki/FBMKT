@@ -1,0 +1,9 @@
+watchlist:
+  - keyword: "iPhone 14 Pro"
+    fair_price: 400
+    max_price: 500
+    notes: "256GB or above, good condition"
+  - keyword: "Herman Miller Aeron"
+    fair_price: 250
+    max_price: 400
+    notes: "any size"
